@@ -152,9 +152,9 @@ Each item is a 3 by 3 matrix with the bottom-right cell missing. Choose the opti
 <details>
 <summary>Answer and explanation, item 10</summary>
 
-**Answer: A.** Addition. The third cell is the first two laid on top of each other, so the gap has **the horizontal middle line, the right edge and the diagonal from top left**.
+**Answer: A.** Addition. The third cell is the first two laid on top of each other, so the gap has **the horizontal middle line, the vertical middle line and the diagonal from top left to bottom right**.
 
-*Why not the others:* Option D drops the diagonal.
+*Why not the others:* Option D drops the diagonal. Option F uses the other diagonal.
 
 </details>
 

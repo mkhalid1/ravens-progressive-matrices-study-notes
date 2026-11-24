@@ -501,12 +501,12 @@ item("diag-09", S, grid(lambda r, c: group((c + r) % 3 + 1, ["square", "triangle
       group(2, "square", "black"), group(4, "square", "grey"), group(2, "square", "white")],
      "Distribution of three, twice. Counts in row 3: three and one, so two. Shapes: triangle and cross, so square. The answer is **two grey squares**.",
      "{d1} has squares but three of them, a count row 3 already has.")
-R19 = [({"top"}, {"bottom"}), ({"left"}, {"d2"}), ({"hmid"}, {"right", "d1"})]
+R19 = [({"top"}, {"bottom"}), ({"left"}, {"d2"}), ({"hmid"}, {"vmid", "d1"})]
 item("diag-10", S, grid(lambda r, c: frame(*sorted([R19[r][0], R19[r][1], R19[r][0] | R19[r][1]][c]))),
-     [frame("hmid"), frame("right", "d1"), frame("hmid", "right"), frame("hmid", "d1"), frame("hmid", "right", "d2"),
-      frame("hmid", "right", "d1", "vmid"), frame("vmid", "right", "d1")],
-     "Addition. The third cell is the first two laid on top of each other, so the gap has **the horizontal middle line, the right edge and the diagonal from top left**.",
-     "{d2} drops the diagonal.")
+     [frame("hmid"), frame("vmid", "d1"), frame("hmid", "vmid"), frame("hmid", "d1"), frame("hmid", "vmid", "d2"),
+      frame("hmid", "vmid", "d1", "right"), frame("vmid", "right", "d1")],
+     "Addition. The third cell is the first two laid on top of each other, so the gap has **the horizontal middle line, the vertical middle line and the diagonal from top left to bottom right**.",
+     "{d2} drops the diagonal. {d4} uses the other diagonal.")
 R20 = [({0, 1, 4}, {1, 2, 4}), ({3, 6}, {6, 7, 8}), ({1, 3, 4}, {4, 5, 7})]
 item("diag-11", S, grid(lambda r, c: dots([R20[r][0], R20[r][1], R20[r][0] ^ R20[r][1]][c])),
      [dots({1, 3, 4, 5, 7}), dots({4}), dots({1, 3}), dots({5, 7}), dots({1, 3, 5}), dots({1, 4, 7}), dots({3, 4, 5})],
