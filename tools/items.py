@@ -536,6 +536,7 @@ item("diag-15", S, grid(lambda r, c: dots([R23[r][0], R23[r][1], R23[r][0] ^ R23
 
 # ---------- build ----------
 def main():
+    raise SystemExit("Trimmed to the free-test size (TD-4507): the cut items are archived outside this repo. Re-running this generator would restore all 65 items, so it is disabled.")
     img = os.path.join(ROOT, "docs", "img")
     os.makedirs(img, exist_ok=True)
     key_out = {}

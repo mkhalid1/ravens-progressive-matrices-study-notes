@@ -1,13 +1,13 @@
 # Raven's Progressive Matrices Study Notes
 
-A free, complete study guide for Raven's Progressive Matrices, the non-verbal reasoning test employers use in online assessments: which version you will get, the five kinds of rule behind the puzzles with a clear method for each, 65 original matrix puzzles with full explanations, how the adaptive scoring really works, and study plans for a week or a weekend. Every puzzle is drawn as a picture in the real format: a 3 by 3 grid, one missing cell, eight options. Facts about the test come only from Pearson and TalentLens, each one [cited](docs/sources.md).
+A free, complete study guide for Raven's Progressive Matrices, the non-verbal reasoning test employers use in online assessments: which version you will get, the five kinds of rule behind the puzzles with a clear method for each, 20 original matrix puzzles with full explanations, how the adaptive scoring really works, and study plans for a week or a weekend. Every puzzle is drawn as a picture in the real format: a 3 by 3 grid, one missing cell, eight options. Facts about the test come only from Pearson and TalentLens, each one [cited](docs/sources.md).
 
 Want to see where you stand first? Take the [free timed Raven's practice test on PrepClubs](https://prepclubs.com/free-practice-tests/ravens-progressive-matrices?utm_source=github&utm_medium=referral&utm_campaign=study-notes&utm_content=ravens-progressive-matrices) (23 puzzles), or the shorter [15-minute diagnostic](docs/diagnostic.md) in this repo.
 
 ## Start here
 
-1. **Find your weak rule families.** Take the [15-minute diagnostic](docs/diagnostic.md). It has three puzzles for each kind of rule and tells you where to start.
-2. **Fix the weakest one first.** Open its guide below, learn the method and the traps, then do its 10 practice puzzles.
+1. **Find your weak rule families.** Take the [15-minute diagnostic](docs/diagnostic.md). It has two puzzles for each kind of rule and tells you where to start.
+2. **Fix the weakest one first.** Open its guide below, learn the method and the traps, then do its 2 practice puzzles.
 3. **Follow a plan.** Use the [7-day plan](docs/study-plans.md#7-day-plan), or the [2-day plan](docs/study-plans.md#2-day-plan) if your test link has already arrived.
 
 ## Quick facts
@@ -37,7 +37,7 @@ Raven's has no named sections: every item is a matrix. But nearly every item is 
 | Addition and subtraction | Cell 3 combines, cancels or subtracts cells 1 and 2 | Assuming plain addition | [Addition and subtraction](docs/sections/overlay.md) |
 | Combined rules | Two or three of the above at once | Stopping after the first rule | [Combined rules](docs/sections/combined.md) |
 
-Every guide has the same parts: what it measures, how the questions look, a step-by-step method, the traps that cost points, timing advice, 10 original practice puzzles with explanations, and a score table.
+Every guide has the same parts: what it measures, how the questions look, a step-by-step method, the traps that cost points, timing advice, 2 original practice puzzles with explanations, and a score table.
 
 ## Contents
 
@@ -177,7 +177,7 @@ Every guide has the same parts: what it measures, how the questions look, a step
 
 ## About the practice puzzles
 
-All 65 puzzles (50 in the guides, 15 in the diagnostic) are original, designed for these notes. None are taken from Raven's tests, from Pearson's materials or from any prep site. Each picture is generated from a written specification by [tools/items.py](tools/items.py), which also writes the answer and the explanation, so a picture and its answer cannot drift apart. Every puzzle was also solved independently, without the answer key, before publishing.
+All 20 puzzles (10 in the guides, 10 in the diagnostic) are original, designed for these notes. None are taken from Raven's tests, from Pearson's materials or from any prep site. Each picture is generated from a written specification by [tools/items.py](tools/items.py), which also writes the answer and the explanation, so a picture and its answer cannot drift apart. Every puzzle was also solved independently, without the answer key, before publishing.
 
 ## Contributing
 

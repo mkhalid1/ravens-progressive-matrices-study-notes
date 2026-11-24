@@ -45,29 +45,16 @@ Distribution items reward a written or mental tick list. Cross off values row by
 
 ## Practice items
 
-These 10 items are original, drawn for these notes. They are not taken from any Raven's test or publisher's materials. Each one is a 3 by 3 matrix with the bottom-right cell missing; choose the option, A to H, that completes it.
+These 2 items are original, drawn for these notes. They are not taken from any Raven's test or publisher's materials. Each one is a 3 by 3 matrix with the bottom-right cell missing; choose the option, A to H, that completes it.
 
 <!-- items:start -->
 
 ### Item 1
 
-![Distribution of three practice item 1: a 3 by 3 matrix with the bottom-right cell missing, and eight answer options labelled A to H](../img/dist-01.svg)
+![Distribution of three practice item 1: a 3 by 3 matrix with the bottom-right cell missing, and eight answer options labelled A to H](../img/dist-02.svg)
 
 <details>
 <summary>Answer and explanation, item 1</summary>
-
-**Answer: H.** Every row holds the same three shapes, a circle, a square and a triangle, each once, in a different order. Row 3 has a triangle and a circle, so the gap is a **white square** of the same size.
-
-*Why not the others:* Option A is a circle, which row 3 already has. Option C is a square but black, and nothing in the grid is shaded.
-
-</details>
-
-### Item 2
-
-![Distribution of three practice item 2: a 3 by 3 matrix with the bottom-right cell missing, and eight answer options labelled A to H](../img/dist-02.svg)
-
-<details>
-<summary>Answer and explanation, item 2</summary>
 
 **Answer: F.** Shape and shading each follow their own distribution of three. Each row has one circle, one square and one triangle, and also one white, one grey and one black shape. Row 3 is missing the square and the white shading: a **white square**.
 
@@ -75,90 +62,12 @@ These 10 items are original, drawn for these notes. They are not taken from any 
 
 </details>
 
-### Item 3
+### Item 2
 
-![Distribution of three practice item 3: a 3 by 3 matrix with the bottom-right cell missing, and eight answer options labelled A to H](../img/dist-03.svg)
-
-<details>
-<summary>Answer and explanation, item 3</summary>
-
-**Answer: A.** Each row has one, two and three shapes, and also one set of stars, one of hexagons and one of crosses. Row 3 has three hexagons and one cross, so the gap needs the missing count (2) and the missing shape (star): **two black stars**.
-
-*Why not the others:* Option C has three stars, but row 3 already has a cell with three. Option D has two shapes but they are hexagons, already used in row 3.
-
-</details>
-
-### Item 4
-
-![Distribution of three practice item 4: a 3 by 3 matrix with the bottom-right cell missing, and eight answer options labelled A to H](../img/dist-04.svg)
+![Distribution of three practice item 2: a 3 by 3 matrix with the bottom-right cell missing, and eight answer options labelled A to H](../img/dist-09.svg)
 
 <details>
-<summary>Answer and explanation, item 4</summary>
-
-**Answer: G.** Outer and inner shapes are separate distributions. Each row has a circle, a square and a hexagon outside, and a dot, a triangle and a cross inside. Row 3 is missing the square outside and the dot inside: a **square with a black dot**.
-
-*Why not the others:* Option A pairs the square with a triangle, but row 3 already has an inner triangle. Option C has the dot but in a circle, which row 3 already uses.
-
-</details>
-
-### Item 5
-
-![Distribution of three practice item 5: a 3 by 3 matrix with the bottom-right cell missing, and eight answer options labelled A to H](../img/dist-05.svg)
-
-<details>
-<summary>Answer and explanation, item 5</summary>
-
-**Answer: C.** Three distributions at once: shape (circle, triangle, diamond), shading (white, grey, black) and count (one, two, three). Take them one at a time for row 3. Shapes present: diamond, circle, so the gap is a triangle. Shading present: grey, black, so it is white. Counts present: two, three, so it is one. The answer is **one white triangle**.
-
-*Why not the others:* Option A gets shape and count right but repeats grey. Option D gets shape and shading right but repeats the count of two.
-
-</details>
-
-### Item 6
-
-![Distribution of three practice item 6: a 3 by 3 matrix with the bottom-right cell missing, and eight answer options labelled A to H](../img/dist-06.svg)
-
-<details>
-<summary>Answer and explanation, item 6</summary>
-
-**Answer: B.** The shape is fixed by the column: circles in column 1, squares in column 2, triangles in column 3. The line through the shape follows a distribution of three: vertical, horizontal and sloping, once each per row. Row 3 has a sloping line in column 1 and a vertical line in column 2, so the gap is **a triangle with a horizontal line**.
-
-*Why not the others:* Option A uses the vertical line, already in row 3. Option D has the horizontal line but in a square, and column 3 is all triangles.
-
-</details>
-
-### Item 7
-
-![Distribution of three practice item 7: a 3 by 3 matrix with the bottom-right cell missing, and eight answer options labelled A to H](../img/dist-07.svg)
-
-<details>
-<summary>Answer and explanation, item 7</summary>
-
-**Answer: D.** Each row uses a square, a circle and a triangle once, and puts the shape on the left, in the centre and on the right once each. Row 3 has a triangle in the centre and a square on the right, so the gap is a **black circle on the left**.
-
-*Why not the others:* Option A is a circle but in the centre, a position row 3 already uses. Option C is on the left but a square, already in row 3.
-
-</details>
-
-### Item 8
-
-![Distribution of three practice item 8: a 3 by 3 matrix with the bottom-right cell missing, and eight answer options labelled A to H](../img/dist-08.svg)
-
-<details>
-<summary>Answer and explanation, item 8</summary>
-
-**Answer: E.** All the shapes are pentagons, so look at what changes: size and fill. Each row has one small, one medium and one large pentagon, and one white, one striped and one black. Row 3 has a large black one and a medium white one, so the gap is a **small striped pentagon**.
-
-*Why not the others:* Option A is striped but medium, a size row 3 already has. Option C is small but black, a fill row 3 already has.
-
-</details>
-
-### Item 9
-
-![Distribution of three practice item 9: a 3 by 3 matrix with the bottom-right cell missing, and eight answer options labelled A to H](../img/dist-09.svg)
-
-<details>
-<summary>Answer and explanation, item 9</summary>
+<summary>Answer and explanation, item 2</summary>
 
 **Answer: A.** This is not a rotation item, even though it uses arrows. The arrows only ever point up, right or down, and each row has each direction once. Shading is also a distribution: white, black and grey once per row. Row 3 has down-grey and up-black, so the gap is a **white arrow pointing right**.
 
@@ -166,34 +75,23 @@ These 10 items are original, drawn for these notes. They are not taken from any 
 
 </details>
 
-### Item 10
-
-![Distribution of three practice item 10: a 3 by 3 matrix with the bottom-right cell missing, and eight answer options labelled A to H](../img/dist-10.svg)
-
-<details>
-<summary>Answer and explanation, item 10</summary>
-
-**Answer: D.** Each cell has a top shape and a bottom shape, and each follows its own distribution of circle, square and triangle. Row 3 tops: triangle, circle, so the top of the gap is a square. Row 3 bottoms: square, triangle, so the bottom is a circle. The answer is a **square above a circle**.
-
-*Why not the others:* Option A has the right two shapes but the wrong way round. That swap is the most common miss on two-part cells: solve the top and the bottom separately, then check both.
-
-</details>
-
 <!-- items:end -->
+
+Want more? The [free timed Raven's practice test on PrepClubs](https://prepclubs.com/free-practice-tests/ravens-progressive-matrices?utm_source=github&utm_medium=referral&utm_campaign=study-notes&utm_content=ravens-progressive-matrices) has the full 23 puzzles, every answer explained.
 
 ## Score yourself
 
 <!-- key:start -->
 
-| Item | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 |
-|---|---|---|---|---|---|---|---|---|---|---|
-| Answer | H | F | A | G | C | B | D | E | A | D |
+| Item | 1 | 2 |
+|---|---|---|
+| Answer | F | A |
 
 <!-- key:end -->
 
-- **9 to 10:** you spot shuffled sets quickly. Move on to [addition and subtraction](overlay.md).
-- **6 to 8:** look for misses where one feature was right and another repeated a value. Add a final "does this repeat anything in the row?" check.
-- **5 or fewer:** practise listing the values of row 1 before doing anything else. Most misses here come from not testing for distribution at all.
+- **2 of 2:** you spot shuffled sets quickly. Move on to [addition and subtraction](overlay.md).
+- **1 of 2:** look for misses where one feature was right and another repeated a value. Add a final "does this repeat anything in the row?" check.
+- **0 of 2:** practise listing the values of row 1 before doing anything else. Most misses here come from not testing for distribution at all.
 
 ## Next step
 

@@ -19,7 +19,7 @@ The questions on the [FAQ](faq.md) page come from Google's "People also ask" box
 
 ## What is our own guidance
 
-The rule types, solving methods, traps, timing advice, study plans and all 65 practice items are our own. They are not taken from Pearson, TalentLens or any prep site. The practice items are original designs built from the published item format (a 3 by 3 matrix with one missing piece and eight options) and drawn by a script in this repo ([tools/items.py](../tools/items.py)), so every picture and its answer come from the same specification.
+The rule types, solving methods, traps, timing advice, study plans and all 20 practice items are our own. They are not taken from Pearson, TalentLens or any prep site. The practice items are original designs built from the published item format (a 3 by 3 matrix with one missing piece and eight options) and drawn by a script in this repo ([tools/items.py](../tools/items.py)), so every picture and its answer come from the same specification.
 
 Where a fact is not published, we say so. In particular, Pearson does not publish a pass mark, the item count of the classic paper APM on its store page, or retake rules. Those depend on the employer.
 
