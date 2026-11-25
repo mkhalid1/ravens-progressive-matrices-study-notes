@@ -1,4 +1,6 @@
-<!-- nav:top -->[Contents](../../README.md#contents) · Previous: [Progression](progression.md) · Next: [Distribution of three](distribution.md)<!-- /nav:top -->
+<!-- nav:top -->
+[Contents](../../README.md#contents) · Previous: [Progression](progression.md) · Next: [Distribution of three](distribution.md)
+<!-- /nav:top -->
 
 # Rotation and movement
 
@@ -99,4 +101,6 @@ Rotation gets harder when it is mixed with other rules. Test yourself on mixed i
 
 ---
 
-<!-- nav:bottom -->← Previous: [Progression](progression.md) | Next: [Distribution of three](distribution.md) → | [Back to contents](../../README.md#contents)<!-- /nav:bottom -->
+<!-- nav:bottom -->
+← Previous: [Progression](progression.md) | Next: [Distribution of three](distribution.md) → | [Back to contents](../../README.md#contents)
+<!-- /nav:bottom -->

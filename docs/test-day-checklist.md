@@ -1,4 +1,6 @@
-<!-- nav:top -->[Contents](../README.md#contents) · Previous: [For job applicants](job-applicants.md) · Next: [FAQ](faq.md)<!-- /nav:top -->
+<!-- nav:top -->
+[Contents](../README.md#contents) · Previous: [For job applicants](job-applicants.md) · Next: [FAQ](faq.md)
+<!-- /nav:top -->
 
 # Test-day checklist
 
@@ -38,4 +40,6 @@ If you have time for one more full run, use the [free 23-puzzle Raven's practice
 
 ---
 
-<!-- nav:bottom -->← Previous: [For job applicants](job-applicants.md) | Next: [FAQ](faq.md) → | [Back to contents](../README.md#contents)<!-- /nav:bottom -->
+<!-- nav:bottom -->
+← Previous: [For job applicants](job-applicants.md) | Next: [FAQ](faq.md) → | [Back to contents](../README.md#contents)
+<!-- /nav:bottom -->

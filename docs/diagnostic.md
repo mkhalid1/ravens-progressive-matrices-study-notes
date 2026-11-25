@@ -1,4 +1,6 @@
-<!-- nav:top -->[Contents](../README.md#contents) · Previous: [Raven's Progressive Matrices explained](test-overview.md) · Next: [Progression](sections/progression.md)<!-- /nav:top -->
+<!-- nav:top -->
+[Contents](../README.md#contents) · Previous: [Raven's Progressive Matrices explained](test-overview.md) · Next: [Progression](sections/progression.md)
+<!-- /nav:top -->
 
 # 15-minute diagnostic
 
@@ -192,4 +194,6 @@ These items are easier than the hardest items on APM-III, so treat a high score 
 
 ---
 
-<!-- nav:bottom -->← Previous: [Raven's Progressive Matrices explained](test-overview.md) | Next: [Progression](sections/progression.md) → | [Back to contents](../README.md#contents)<!-- /nav:bottom -->
+<!-- nav:bottom -->
+← Previous: [Raven's Progressive Matrices explained](test-overview.md) | Next: [Progression](sections/progression.md) → | [Back to contents](../README.md#contents)
+<!-- /nav:bottom -->

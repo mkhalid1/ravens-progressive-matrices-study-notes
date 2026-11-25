@@ -1,4 +1,6 @@
-<!-- nav:top -->[Contents](../../README.md#contents) · Previous: [Addition and subtraction](overlay.md) · Next: [How scoring works](../scoring.md)<!-- /nav:top -->
+<!-- nav:top -->
+[Contents](../../README.md#contents) · Previous: [Addition and subtraction](overlay.md) · Next: [How scoring works](../scoring.md)
+<!-- /nav:top -->
 
 # Combined rules
 
@@ -97,4 +99,6 @@ Combined items are the ones that separate scores. Put the whole method under rea
 
 ---
 
-<!-- nav:bottom -->← Previous: [Addition and subtraction](overlay.md) | Next: [How scoring works](../scoring.md) → | [Back to contents](../../README.md#contents)<!-- /nav:bottom -->
+<!-- nav:bottom -->
+← Previous: [Addition and subtraction](overlay.md) | Next: [How scoring works](../scoring.md) → | [Back to contents](../../README.md#contents)
+<!-- /nav:bottom -->

@@ -1,4 +1,6 @@
-<!-- nav:top -->[Contents](../../README.md#contents) · Previous: [Rotation and movement](rotation.md) · Next: [Addition and subtraction](overlay.md)<!-- /nav:top -->
+<!-- nav:top -->
+[Contents](../../README.md#contents) · Previous: [Rotation and movement](rotation.md) · Next: [Addition and subtraction](overlay.md)
+<!-- /nav:top -->
 
 # Distribution of three
 
@@ -99,4 +101,6 @@ In a real test, distribution is mixed in with every other rule. Practise switchi
 
 ---
 
-<!-- nav:bottom -->← Previous: [Rotation and movement](rotation.md) | Next: [Addition and subtraction](overlay.md) → | [Back to contents](../../README.md#contents)<!-- /nav:bottom -->
+<!-- nav:bottom -->
+← Previous: [Rotation and movement](rotation.md) | Next: [Addition and subtraction](overlay.md) → | [Back to contents](../../README.md#contents)
+<!-- /nav:bottom -->

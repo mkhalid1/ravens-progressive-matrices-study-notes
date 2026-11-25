@@ -1,4 +1,6 @@
-<!-- nav:top -->[Contents](../README.md#contents) · Previous: [Study plans: 7 days and 2 days](study-plans.md) · Next: [Test-day checklist](test-day-checklist.md)<!-- /nav:top -->
+<!-- nav:top -->
+[Contents](../README.md#contents) · Previous: [Study plans: 7 days and 2 days](study-plans.md) · Next: [Test-day checklist](test-day-checklist.md)
+<!-- /nav:top -->
 
 # For job applicants
 
@@ -34,4 +36,6 @@ From TalentLens's own description: the questions are diagrammatic, so language a
 
 ---
 
-<!-- nav:bottom -->← Previous: [Study plans: 7 days and 2 days](study-plans.md) | Next: [Test-day checklist](test-day-checklist.md) → | [Back to contents](../README.md#contents)<!-- /nav:bottom -->
+<!-- nav:bottom -->
+← Previous: [Study plans: 7 days and 2 days](study-plans.md) | Next: [Test-day checklist](test-day-checklist.md) → | [Back to contents](../README.md#contents)
+<!-- /nav:bottom -->

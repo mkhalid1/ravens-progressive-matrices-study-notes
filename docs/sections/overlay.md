@@ -1,4 +1,6 @@
-<!-- nav:top -->[Contents](../../README.md#contents) · Previous: [Distribution of three](distribution.md) · Next: [Combined rules](combined.md)<!-- /nav:top -->
+<!-- nav:top -->
+[Contents](../../README.md#contents) · Previous: [Distribution of three](distribution.md) · Next: [Combined rules](combined.md)
+<!-- /nav:top -->
 
 # Addition and subtraction
 
@@ -102,4 +104,6 @@ Overlay items are where careful checking pays off most. Test your accuracy at sp
 
 ---
 
-<!-- nav:bottom -->← Previous: [Distribution of three](distribution.md) | Next: [Combined rules](combined.md) → | [Back to contents](../../README.md#contents)<!-- /nav:bottom -->
+<!-- nav:bottom -->
+← Previous: [Distribution of three](distribution.md) | Next: [Combined rules](combined.md) → | [Back to contents](../../README.md#contents)
+<!-- /nav:bottom -->

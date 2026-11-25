@@ -1,4 +1,6 @@
-<!-- nav:top -->[Contents](../README.md#contents) · Next: [15-minute diagnostic](diagnostic.md)<!-- /nav:top -->
+<!-- nav:top -->
+[Contents](../README.md#contents) · Next: [15-minute diagnostic](diagnostic.md)
+<!-- /nav:top -->
 
 # Raven's Progressive Matrices explained
 
@@ -61,4 +63,6 @@ The notes teach the rules. A timed run teaches the pace. Try the [free Raven's M
 
 ---
 
-<!-- nav:bottom -->Next: [15-minute diagnostic](diagnostic.md) → | [Back to contents](../README.md#contents)<!-- /nav:bottom -->
+<!-- nav:bottom -->
+Next: [15-minute diagnostic](diagnostic.md) → | [Back to contents](../README.md#contents)
+<!-- /nav:bottom -->

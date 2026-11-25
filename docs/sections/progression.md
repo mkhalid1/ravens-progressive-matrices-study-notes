@@ -1,4 +1,6 @@
-<!-- nav:top -->[Contents](../../README.md#contents) · Previous: [15-minute diagnostic](../diagnostic.md) · Next: [Rotation and movement](rotation.md)<!-- /nav:top -->
+<!-- nav:top -->
+[Contents](../../README.md#contents) · Previous: [15-minute diagnostic](../diagnostic.md) · Next: [Rotation and movement](rotation.md)
+<!-- /nav:top -->
 
 # Progression
 
@@ -107,4 +109,6 @@ Progression is easy in isolation and costly under time pressure. Try it inside a
 
 ---
 
-<!-- nav:bottom -->← Previous: [15-minute diagnostic](../diagnostic.md) | Next: [Rotation and movement](rotation.md) → | [Back to contents](../../README.md#contents)<!-- /nav:bottom -->
+<!-- nav:bottom -->
+← Previous: [15-minute diagnostic](../diagnostic.md) | Next: [Rotation and movement](rotation.md) → | [Back to contents](../../README.md#contents)
+<!-- /nav:bottom -->
