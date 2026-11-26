@@ -36,7 +36,7 @@
 
 ## Last practice before the real one
 
-If you have time for one more full run, use the [free 23-puzzle Raven's practice test on PrepClubs](https://prepclubs.com/free-practice-tests/ravens-progressive-matrices?utm_source=github&utm_medium=referral&utm_campaign=study-notes&utm_content=ravens-progressive-matrices) under real timing.
+If you have time for one more full run, use the [free 23-puzzle Raven's practice test on PrepClubs](https://prepclubs.com/free-practice-tests/ravens-progressive-matrices?utm_source=github&utm_medium=referral&utm_campaign=7acab2&utm_content=ravens-progressive-matrices) under real timing.
 
 ---
 

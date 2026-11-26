@@ -40,7 +40,7 @@ If you are behind at a checkpoint, give the next hard item a two-minute limit: e
 
 ## Practise against the clock
 
-Do the practice items in this repo untimed first to learn the rules, then a full timed set to learn the pace. The [free Raven's practice test on PrepClubs](https://prepclubs.com/free-practice-tests/ravens-progressive-matrices?utm_source=github&utm_medium=referral&utm_campaign=study-notes&utm_content=ravens-progressive-matrices) has 23 puzzles, the same count as APM-III, so you can practise the 40-minute checkpoints.
+Do the practice items in this repo untimed first to learn the rules, then a full timed set to learn the pace. The [free Raven's practice test on PrepClubs](https://prepclubs.com/free-practice-tests/ravens-progressive-matrices?utm_source=github&utm_medium=referral&utm_campaign=7acab2&utm_content=ravens-progressive-matrices) has 23 puzzles, the same count as APM-III, so you can practise the 40-minute checkpoints.
 
 ---
 

@@ -82,7 +82,7 @@ These 2 items are original, drawn for these notes. They are not taken from any R
 
 <!-- items:end -->
 
-Want more? The [free timed Raven's practice test on PrepClubs](https://prepclubs.com/free-practice-tests/ravens-progressive-matrices?utm_source=github&utm_medium=referral&utm_campaign=study-notes&utm_content=ravens-progressive-matrices) has the full 23 puzzles, every answer explained.
+Want more? The [free timed Raven's practice test on PrepClubs](https://prepclubs.com/free-practice-tests/ravens-progressive-matrices?utm_source=github&utm_medium=referral&utm_campaign=7acab2&utm_content=ravens-progressive-matrices) has the full 23 puzzles, every answer explained.
 
 ## Score yourself
 
@@ -100,7 +100,7 @@ Want more? The [free timed Raven's practice test on PrepClubs](https://prepclubs
 
 ## Next step
 
-Overlay items are where careful checking pays off most. Test your accuracy at speed with the [free Raven's practice test on PrepClubs](https://prepclubs.com/free-practice-tests/ravens-progressive-matrices?utm_source=github&utm_medium=referral&utm_campaign=study-notes&utm_content=ravens-progressive-matrices).
+Overlay items are where careful checking pays off most. Test your accuracy at speed with the [free Raven's practice test on PrepClubs](https://prepclubs.com/free-practice-tests/ravens-progressive-matrices?utm_source=github&utm_medium=referral&utm_campaign=7acab2&utm_content=ravens-progressive-matrices).
 
 ---
 

@@ -14,7 +14,7 @@ Two plans: one for a week, one for when the invitation has already arrived. Both
 | 2 | Progression and rotation | Read the [progression](sections/progression.md) and [rotation](sections/rotation.md) guides. Do both item sets. For every miss, write one line in a miss log. |
 | 3 | Distribution | Read the [distribution guide](sections/distribution.md) and do its items. Then redo yesterday's misses without looking at the answers. |
 | 4 | Addition and subtraction | Read the [addition and subtraction guide](sections/overlay.md). Learn the four variants table until you can write it from memory. Do the items. |
-| 5 | First timed run | Take a full timed set, such as the [free 23-puzzle test on PrepClubs](https://prepclubs.com/free-practice-tests/ravens-progressive-matrices?utm_source=github&utm_medium=referral&utm_campaign=study-notes&utm_content=ravens-progressive-matrices). Use the 40-minute checkpoints from the [timing guide](timing.md). Sort your misses by rule family. |
+| 5 | First timed run | Take a full timed set, such as the [free 23-puzzle test on PrepClubs](https://prepclubs.com/free-practice-tests/ravens-progressive-matrices?utm_source=github&utm_medium=referral&utm_campaign=7acab2&utm_content=ravens-progressive-matrices). Use the 40-minute checkpoints from the [timing guide](timing.md). Sort your misses by rule family. |
 | 6 | Combined rules and weak spots | Read the [combined guide](sections/combined.md) and do its items. Then go back to the rule family that cost you most on day 5 and redo its items cold. |
 | 7 | Second timed run and rest | Take a second timed set in the morning. Compare with day 5. Read the [test-day checklist](test-day-checklist.md). Stop by early evening. |
 
@@ -39,7 +39,7 @@ For when the test link has arrived and the deadline is close.
 | 1 | 15 min | Take the [diagnostic](diagnostic.md). |
 | 2 | 20 min | Read the "How the questions look" and "Traps" parts of all five guides. Skip the rest for now. |
 | 3 | 40 min | Do the practice items for your two weakest rule families. Read every explanation, including the ones you got right. |
-| 4 | 40 min | Take a full timed set, such as the [free one on PrepClubs](https://prepclubs.com/free-practice-tests/ravens-progressive-matrices?utm_source=github&utm_medium=referral&utm_campaign=study-notes&utm_content=ravens-progressive-matrices). |
+| 4 | 40 min | Take a full timed set, such as the [free one on PrepClubs](https://prepclubs.com/free-practice-tests/ravens-progressive-matrices?utm_source=github&utm_medium=referral&utm_campaign=7acab2&utm_content=ravens-progressive-matrices). |
 
 ### Day 2: practise and settle
 

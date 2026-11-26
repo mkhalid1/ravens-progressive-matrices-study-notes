@@ -61,7 +61,7 @@ We did not find a free official Raven's practice test on TalentLens's Raven's pr
 ## Where can I practise for free?
 
 - The 10 practice items and the 10-item diagnostic in this repo, each with a full explanation.
-- The [free 23-puzzle Raven's practice test on PrepClubs](https://prepclubs.com/free-practice-tests/ravens-progressive-matrices?utm_source=github&utm_medium=referral&utm_campaign=study-notes&utm_content=ravens-progressive-matrices), timed, in the APM-III style.
+- The [free 23-puzzle Raven's practice test on PrepClubs](https://prepclubs.com/free-practice-tests/ravens-progressive-matrices?utm_source=github&utm_medium=referral&utm_campaign=7acab2&utm_content=ravens-progressive-matrices), timed, in the APM-III style.
 
 ---
 

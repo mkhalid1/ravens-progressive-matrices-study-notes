@@ -2,7 +2,7 @@
 
 A free, complete study guide for Raven's Progressive Matrices, the non-verbal reasoning test employers use in online assessments: which version you will get, the five kinds of rule behind the puzzles with a clear method for each, 20 original matrix puzzles with full explanations, how the adaptive scoring really works, and study plans for a week or a weekend. Every puzzle is drawn as a picture in the real format: a 3 by 3 grid, one missing cell, eight options. Facts about the test come only from Pearson and TalentLens, each one [cited](docs/sources.md).
 
-Want to see where you stand first? Take the [free timed Raven's practice test on PrepClubs](https://prepclubs.com/free-practice-tests/ravens-progressive-matrices?utm_source=github&utm_medium=referral&utm_campaign=study-notes&utm_content=ravens-progressive-matrices) (23 puzzles), or the shorter [15-minute diagnostic](docs/diagnostic.md) in this repo.
+Want to see where you stand first? Take the [free timed Raven's practice test on PrepClubs](https://prepclubs.com/free-practice-tests/ravens-progressive-matrices?utm_source=github&utm_medium=referral&utm_campaign=7acab2&utm_content=ravens-progressive-matrices) (23 puzzles), or the shorter [15-minute diagnostic](docs/diagnostic.md) in this repo.
 
 ## Start here
 
@@ -172,7 +172,7 @@ Every guide has the same parts: what it measures, how the questions look, a step
 - **Predict before you look.** Cover the eight options, work out the missing cell in words, then uncover them. This is the single most useful habit for Raven's.
 - **Read every explanation,** including for puzzles you got right. Each one says why the most tempting wrong option is wrong.
 - **Keep a miss log.** For each miss, write the rule family and the mistake. The [study plans](docs/study-plans.md#how-to-review-a-missed-item) show how.
-- **Practise timed.** The notes teach the rules. A timed run, such as the [free one on PrepClubs](https://prepclubs.com/free-practice-tests/ravens-progressive-matrices?utm_source=github&utm_medium=referral&utm_campaign=study-notes&utm_content=ravens-progressive-matrices), teaches the pace.
+- **Practise timed.** The notes teach the rules. A timed run, such as the [free one on PrepClubs](https://prepclubs.com/free-practice-tests/ravens-progressive-matrices?utm_source=github&utm_medium=referral&utm_campaign=7acab2&utm_content=ravens-progressive-matrices), teaches the pace.
 - **Clone or fork it** if you want your own copy. The structure also works as a GitBook space: see [SUMMARY.md](SUMMARY.md).
 
 ## About the practice puzzles

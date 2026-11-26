@@ -190,7 +190,7 @@ Score each part out of 2.
 
 **Overall:** 9 to 10 means your rule-spotting is strong and your next gain is speed; go to the [timing guide](timing.md). 6 to 8 is a solid base with one or two weak families. 5 or fewer means work through the guides in order, starting with progression.
 
-These items are easier than the hardest items on APM-III, so treat a high score here as a good start, not a guarantee. For a fuller picture, take the [free 23-puzzle Raven's practice test on PrepClubs](https://prepclubs.com/free-practice-tests/ravens-progressive-matrices?utm_source=github&utm_medium=referral&utm_campaign=study-notes&utm_content=ravens-progressive-matrices) under real timing.
+These items are easier than the hardest items on APM-III, so treat a high score here as a good start, not a guarantee. For a fuller picture, take the [free 23-puzzle Raven's practice test on PrepClubs](https://prepclubs.com/free-practice-tests/ravens-progressive-matrices?utm_source=github&utm_medium=referral&utm_campaign=7acab2&utm_content=ravens-progressive-matrices) under real timing.
 
 ---
 

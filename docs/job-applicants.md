@@ -32,7 +32,7 @@ From TalentLens's own description: the questions are diagrammatic, so language a
 
 1. Take the [15-minute diagnostic](diagnostic.md).
 2. Follow the [7-day](study-plans.md#7-day-plan) or [2-day](study-plans.md#2-day-plan) plan.
-3. Take one full timed set, such as the [free 23-puzzle Raven's practice test on PrepClubs](https://prepclubs.com/free-practice-tests/ravens-progressive-matrices?utm_source=github&utm_medium=referral&utm_campaign=study-notes&utm_content=ravens-progressive-matrices), so the real test is not your first timed run.
+3. Take one full timed set, such as the [free 23-puzzle Raven's practice test on PrepClubs](https://prepclubs.com/free-practice-tests/ravens-progressive-matrices?utm_source=github&utm_medium=referral&utm_campaign=7acab2&utm_content=ravens-progressive-matrices), so the real test is not your first timed run.
 
 ---
 

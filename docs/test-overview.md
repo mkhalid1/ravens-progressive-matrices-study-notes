@@ -59,7 +59,7 @@ TalentLens gives three reasons on its product pages: the questions are diagramma
 
 ## Practise the real format
 
-The notes teach the rules. A timed run teaches the pace. Try the [free Raven's Matrices practice test on PrepClubs](https://prepclubs.com/free-practice-tests/ravens-progressive-matrices?utm_source=github&utm_medium=referral&utm_campaign=study-notes&utm_content=ravens-progressive-matrices), 23 puzzles in the APM-III style, then come back to the guide for any rule family that cost you points.
+The notes teach the rules. A timed run teaches the pace. Try the [free Raven's Matrices practice test on PrepClubs](https://prepclubs.com/free-practice-tests/ravens-progressive-matrices?utm_source=github&utm_medium=referral&utm_campaign=7acab2&utm_content=ravens-progressive-matrices), 23 puzzles in the APM-III style, then come back to the guide for any rule family that cost you points.
 
 ---
 
